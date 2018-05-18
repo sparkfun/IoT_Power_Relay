@@ -8,6 +8,9 @@ Repository Contents
 * **/Firmware** - Example code 
 
 
+Documentation
+-------------------
+https://learn.sparkfun.com/tutorials/iot-power-relay
 
 
 License Information
