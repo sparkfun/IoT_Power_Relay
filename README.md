@@ -1,7 +1,7 @@
 # Telesitter
 ========================================
 
--> [![IoT Power Relay](https://cdn.sparkfun.com/assets/learn_tutorials/7/7/3/IoT_Power_Relay_Tutorial-12_cropped.jpg)](https://cdn.sparkfun.com/assets/learn_tutorials/7/7/3/IoT_Power_Relay_Tutorial-12_cropped.jpg) <-
+[![IoT Power Relay](https://cdn.sparkfun.com/assets/learn_tutorials/7/7/3/IoT_Power_Relay_Tutorial-12_cropped.jpg)](https://cdn.sparkfun.com/assets/learn_tutorials/7/7/3/IoT_Power_Relay_Tutorial-12_cropped.jpg)
 
 A web-configurable timed relay for controlling televisions and other devices.
 
