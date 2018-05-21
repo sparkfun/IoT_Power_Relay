@@ -8,7 +8,7 @@ A web-configurable timed relay for controlling televisions and other devices.
 
 Repository Contents
 -------------------
-* **/Firmware** - Arduino example Code for the ESP32 Thing.
+* **/Firmware** - Arduino example code for the ESP32 Thing.
 
 Documentation
 -------------------
